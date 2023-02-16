@@ -1,0 +1,46 @@
+[
+  {
+    "consigness": "张龙",
+    "fullAddress": "北京北京市朝阳区远洋天地5号楼15",
+    "id": 1361,
+    "isDefault": "0",
+    "phone": "15852016643",
+    "provinecId": 1,
+    "regionId": 1,
+    "userAddress": "北京北京市朝阳区远洋天地5号楼15",
+    "userId": 2
+  },
+  {
+    "consigness": "张三",
+    "fullAddress": "北京北京市七家镇",
+    "id": 1363,
+    "isDefault": "0",
+    "phone": "13522222222",
+    "provinecId": 1,
+    "regionId": 1,
+    "userAddress": "北京北京市七家镇",
+    "userId": 2
+  },
+  {
+    "consigness": "李四",
+    "fullAddress": "湖北武汉市江夏区东湖网谷",
+    "id": 1364,
+    "isDefault": "0",
+    "phone": "1353333333",
+    "provinecId": 24,
+    "regionId": 4,
+    "userAddress": "武汉市江夏区东湖网谷",
+    "userId": 2
+  },
+  {
+    "consigness": "王五",
+    "fullAddress": "广东深圳市宝安区",
+    "id": 1365,
+    "isDefault": "1",
+    "phone": "15852016643",
+    "provinecId": 26,
+    "regionId": 5,
+    "userAddress": "深圳市宝安区",
+    "userId": 2
+  }
+]
